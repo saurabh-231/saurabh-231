@@ -2,7 +2,7 @@
 - 😀 I recently joined GitHub
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking forward to work with everyone
+<!---- 💞️ I’m looking forward to work with everyone--->
 - 📫 How to reach me? Well, if you're reading this you've already reached me !!! 
 
 <!---
